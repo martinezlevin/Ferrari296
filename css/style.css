@@ -1,0 +1,193 @@
+/* INICIO */
+
+body {
+ background-color: black;
+ overflow-x: hidden;
+}
+
+/* NAVBAR */
+
+
+.navbar {
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    /*box-shadow: 0px 8px 8px rgb(0,0,0,.5);*/
+}
+
+
+
+
+.nav_logo {
+    width: 50px;
+    height: auto;
+}
+
+
+
+/* MAIN */
+
+.h1-main-home {
+    color:  white;
+    position: relative;
+    top: 30vw;
+    text-align: center;
+    font-size: 3vw;
+    z-index: 5;
+}
+
+
+.h6-main-home {
+    padding: 0px 100px 0px 100px;
+    color:  white;
+    position: relative;
+    top: 30vw;
+    text-align: center;
+    font-size: 1.2vw;
+    z-index: 5
+    ;
+}
+
+
+.video_main {
+    position: relative;
+    bottom: 13vh;
+    width: 100%;
+    height: auto;
+}
+
+
+/* FOOTER */
+
+
+.redes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo-footer {
+    width: 150px;
+    height: auto;
+    margin: 50px;
+    opacity: 100%;
+}
+
+
+.logoinsta{
+    width: 100px;
+    height: auto;
+    
+}
+
+.logoface{
+    width: 100px;
+    height: auto;
+    
+}
+
+.logowpp{
+    width: 100px;
+    height: auto;
+    
+}
+
+.copyright {
+    padding: 0px 100px 0px 100px;
+    text-align: center;
+    font-size: 1vw;
+    z-index: 5
+    ;
+}
+
+
+
+
+
+
+
+/* PAGINA "UN PROYECTO FERRARI" */
+
+
+
+.h1-main {
+    color:  white;
+    position: relative;
+    top: 50vw;
+    text-align: center;
+    font-size: 2vw;
+    z-index: 5;
+}
+
+
+.h6-main {
+    padding: 0px 100px 0px 100px;
+    color:  white;
+    position: relative;
+    top: 52vw;
+    text-align: center;
+    font-size: 1.5vw;
+    z-index: 5
+    ;
+}
+
+
+
+
+.images_main {
+    position: relative;
+    top: -11vw;
+    width: 100%;
+    height: auto;
+}
+
+
+.h1-proyect {
+    margin-top: 10vw;
+    color:  white;
+    padding: 0px 25px 0px 25px;
+}
+
+
+.h3-proyect {
+    margin-top: 2vw;
+    color:  white;
+    padding: 0px 25px 0px 25px;
+}
+
+
+
+
+
+.imagen1 {
+    padding: 0px 25px 0px 25px;
+    width: 100vw;
+    min-width: 425px;
+    max-width: 52vw;
+    height: auto;
+}
+
+/* PAGINA "DISEÑO" */
+
+.desing-h1 {
+    padding: 0px 50vw 0px 0px;
+    color:  white;
+    position: relative;
+    top: 7vw;
+    left: 3vw;
+    text-align: start;
+    font-size: 3vw;
+    z-index: 5;
+}
+
+
+.desing-h6 {
+    padding: 0px 50vw 0px 0px;
+    color:  white;
+    position: relative;
+    top: 7vw;
+    left: 3vw;
+    text-align: start;
+    font-size: 1.2vw;
+    z-index: 5
+    ;
+}
